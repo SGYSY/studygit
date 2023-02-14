@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Good, Morning");
+    printf("Come, Baby");
+    printf("Git is a free software");
+    printf("Git is a distributed version control system");
+    printf("Git is convenient");
+    return 0;
+}
